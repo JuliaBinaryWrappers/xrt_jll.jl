@@ -1,6 +1,6 @@
 name = "xrt_jll"
 uuid = "bb401bc5-fb22-5674-bf0e-333823e8805f"
-version = "2.17.0+0"
+version = "2.17.0+1"
 
 [deps]
 protobuf_c_jll = "d730a6b3-54e8-5a61-8821-996059275344"
@@ -19,7 +19,7 @@ Libuuid_jll = "38a345b3-de98-5d2b-a5d3-14cd9215e700"
 libdrm_jll = "8e53e030-5e6c-5a89-a30b-be5b7263a166"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 LibCURL_jll = "7.73, 8"
 OpenSSL_jll = "3.0.8"

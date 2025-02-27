@@ -1,38 +1,38 @@
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "efe1415060f8f289484d96ff946dd3b02d6971f0"
+git-tree-sha1 = "de63c13a2f6817a0897f5ec4d48b426ca5bf26f8"
 libc = "glibc"
 os = "linux"
 
     [[xrt.download]]
-    sha256 = "d1b1339ab641ccee1948288fa5d0d8a9ce656133641060fb2314f3875ec9f7aa"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+0/xrt.v2.17.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "683bab66246631c87e836fda1c45d80481a66501607e9e98e1635a268f9b2d78"
+    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8dcdf0a4c38f81f3cf6c91d12a5493b36b9fea4d"
+git-tree-sha1 = "e798f17393b214176132425488fb8b32b5b0b235"
 libc = "glibc"
 os = "linux"
 
     [[xrt.download]]
-    sha256 = "9d3be615d6f1ba04b7c06257a0653c7df61d908e635f1c028bbcd15e9a5eec60"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+0/xrt.v2.17.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "31557db0ce068aae502bbd60f51c95d4dbd9188259db82ba1428d387da58e4e5"
+    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d9284e5594d77678bfbb5ba859b95aabc9572e56"
+git-tree-sha1 = "e77928241031097269d6b0e87689e93f2357b6cc"
 os = "windows"
 
     [[xrt.download]]
-    sha256 = "4aef2cd7e86afd131a34c65d354c5a47b5b7f3211c203e92469b094e97b827cd"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+0/xrt.v2.17.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "15b86de11eeaf4a7dd1028d06ae75d8f338e981cee17b7ec23a5bbc05d99ef59"
+    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b55c7f49b5bb389be52941ebdee11c2c00a20d3"
+git-tree-sha1 = "078fe0acf356240bad91d61de215fb6b8da04a3d"
 os = "windows"
 
     [[xrt.download]]
-    sha256 = "76be5e685ac48bb0c9f6e429666640c30cbb018b035d5a248e584c964fff0642"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+0/xrt.v2.17.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "357aba8170fcf65dfc4c07ca0b2f8cb15bd2d72b2eb4051497416136b14ad21c"
+    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-w64-mingw32-cxx11.tar.gz"
