@@ -1,38 +1,19 @@
 [[xrt]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "de63c13a2f6817a0897f5ec4d48b426ca5bf26f8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8c0e999fd68547e97c5465412a5f49e832b1a7d"
 libc = "glibc"
 os = "linux"
 
     [[xrt.download]]
-    sha256 = "683bab66246631c87e836fda1c45d80481a66501607e9e98e1635a268f9b2d78"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "de92dea14119a70b872cf96f79f360ce6dec46fdfae8c55b7750237eb195f0d6"
+    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.23.0+0/xrt.v2.23.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[xrt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e798f17393b214176132425488fb8b32b5b0b235"
-libc = "glibc"
-os = "linux"
-
-    [[xrt.download]]
-    sha256 = "31557db0ce068aae502bbd60f51c95d4dbd9188259db82ba1428d387da58e4e5"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[xrt]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e77928241031097269d6b0e87689e93f2357b6cc"
+git-tree-sha1 = "8292bff5890c224ba8d605dc511505a169e11dfe"
 os = "windows"
 
     [[xrt.download]]
-    sha256 = "15b86de11eeaf4a7dd1028d06ae75d8f338e981cee17b7ec23a5bbc05d99ef59"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-w64-mingw32-cxx03.tar.gz"
-[[xrt]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "078fe0acf356240bad91d61de215fb6b8da04a3d"
-os = "windows"
-
-    [[xrt.download]]
-    sha256 = "357aba8170fcf65dfc4c07ca0b2f8cb15bd2d72b2eb4051497416136b14ad21c"
-    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.17.0+1/xrt.v2.17.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "3cb9e727d11ed318246afabec25b8e35f119152e4a8d58131bce22e39931ba8a"
+    url = "https://github.com/JuliaBinaryWrappers/xrt_jll.jl/releases/download/xrt-v2.23.0+0/xrt.v2.23.0.x86_64-w64-mingw32-cxx11.tar.gz"
