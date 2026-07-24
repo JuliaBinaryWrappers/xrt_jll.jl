@@ -1,6 +1,6 @@
 name = "xrt_jll"
 uuid = "bb401bc5-fb22-5674-bf0e-333823e8805f"
-version = "2.17.1+0"
+version = "2.26.0+0"
 
 [deps]
 protobuf_c_jll = "d730a6b3-54e8-5a61-8821-996059275344"
